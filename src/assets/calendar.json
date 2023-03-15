@@ -1,0 +1,377 @@
+{
+	"class_default": {
+		"time": "09:30",
+		"duration": "80"
+	},
+	"events" : [
+		{
+			"date": "2023-04-04",
+			"type": "class",
+			"title": "History & Course Overview",
+			"readings": [
+				{
+					"authors": ["Susanne Bødker"],
+					"title": "When Second Wave HCI Meets Third Wave Challenges",
+					"venue": "NordiCHI",
+					"date": "2006",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1182475.1182476",
+					"optional": true
+				},
+				{
+					"authors": ["Susanne Bødker"],
+					"title": "Third-wave HCI, 10 dates Later--Participation and Sharing",
+					"venue": "Interactions",
+					"volume": 22,
+					"issue": 5,
+					"date": "2015",
+					"link": "https://dl.acm.org/doi/10.1145/2804405",
+					"optional": true
+				},
+				{
+					"authors": ["Steve Harrison", "Deborah Tatar", "Phoebe Sengers"],
+					"title": "The Three Paradigms of HCI",
+					"venue": "alt.CHI",
+					"date": "2007",
+					"link": "https://people.cs.vt.edu/srh/Downloads/HCIJournalTheThreeParadigmsofHCI.pdf",
+					"optional": true
+				}
+			],
+			"slides": "assets/slides/04_04_23-introduction.pdf"
+		},
+		{
+			"date": "2023-04-06",
+			"type": "due",
+			"title": "Discussion Leading Preferences",
+			"link": "https://forms.gle/nF4EinF873hDB8T46"
+		},
+		{
+			"date": "2023-04-06",
+			"type": "class",
+			"leaders": ["Daniel"],
+			"title": "Research Contribution Types",
+			"readings": [
+				{
+					"authors": ["Jacob O. Wobbrock", "Julie A. Kientz"],
+					"title": "Research Contributions in Human-Computer Interaction",
+					"venue": "Interactions",
+					"volume": 23,
+					"issue": 3,
+					"date": "2016",
+					"link": "https://dl.acm.org/doi/10.1145/2907069"
+				},
+				{
+					"authors": ["CHI 2023"],
+					"title": "Contributions to CHI",
+					"link":"https://chi2023.acm.org/submission-guides/contributions-to-chi/",
+					"date": "2023",
+					"optional":true
+				},
+				{
+					"authors": ["Judith S. Olson", "Wendy A. Kellogg"],
+					"title": "Ways of Knowing in HCI",
+					"venue": "Springer",
+					"date": "2014",
+					"link": "https://link.springer.com/book/10.1007/978-1-4939-0378-8",
+					"optional": true
+				}
+			],
+			"slides": "assets/slides/04_06_23-research_contributions.pdf"
+		},
+		{
+			"date": "2023-04-11",
+			"type": "class",
+			"title": "Anatomy of an HCI Paper",
+			"leaders": ["Daniel"],
+			"readings": [
+				{
+					"authors": ["Jacob O. Wobbrock"],
+					"title": "Catchy Titles are Good: But Avoid Being Cute",
+					"venue": "White Paper",
+					"date": "2015",
+					"link": "https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf"
+				},
+				{
+					"authors": ["Berkeley Student Learning Center"],
+					"title": "Reverse Outlining Worksheet",
+					"date": "2008",
+					"link": "https://slc.berkeley.edu/writing-worksheets-and-other-writing-resources/reverse-outlining-worksheet"
+				},
+				{
+					"authors": ["Berkeley Student Learning Center"],
+					"title": "So You've Finished a First Draft: Reverse Outlining",
+					"date": "2008",
+					"link": "https://slc.berkeley.edu/writing-worksheets-and-other-writing-resources/so-youve-finished-first-draft-reverse-outlining"
+				},
+				{
+					"authors": ["Berkeley Student Learning Center"],
+					"title": "Your Paper is a Toolbox: The Art of the Backwards Outline",
+					"date": "2008",
+					"link": "https://slc.berkeley.edu/writing-worksheets-and-other-writing-resources/your-paper-toolbox-art-backwards-outline",
+					"optional": true
+				}
+			]
+		},
+		{
+			"date": "2023-04-13",
+			"type": "due",
+			"title": "CHI 2023 Paper Nominations",
+			"link": "https://forms.gle/1LhcWjfSP4q3dSB78"
+		},
+		{
+			"date": "2023-04-13",
+			"type": "class",
+			"title": "Research Methods used in HCI",
+			"leaders": ["Daniel"],
+			"readings": [
+				{
+					"tbd":"tbd"
+				}
+			]
+		},
+		{
+			"date": "2023-04-18",
+			"type": "class",
+			"title": "Overview of TBD Subcommittee 1",
+			"leaders": ["TBD"],
+			"venues": [
+				{
+					"tbd": "tbd"
+				}
+			],
+			"readings": [
+				{
+					"tbd":"tbd"
+				}
+			]
+		},
+		{
+			"date": "2023-04-20",
+			"type": "class",
+			"title": "Discussion of TBD Subcommittee 1",
+			"leaders": ["TBD"],
+			"readings": [
+				{
+					"tbd":"tbd"
+				}
+			]
+		},
+		{
+			"date": "2023-04-24",
+			"type": "assignments",
+			"title": "Reverse Outline",
+			"anchor": "reverseoutline",
+			"link": "https://canvas.eee.uci.edu/courses/53657/assignments/1126260"
+		},
+		{
+			"date": "2023-04-25",
+			"type": "class",
+			"title": "CHI Watch Party"
+		},
+		{
+			"date": "2023-04-27",
+			"type": "class",
+			"title": "CHI Watch Party"
+		},
+		{
+			"date": "2023-04-28",
+			"type": "assignments",
+			"title": "Proposal 1 Groups",
+			"anchor": "proposal1groups"
+		},
+		{
+			"date": "2023-05-02",
+			"type": "class",
+			"title": "Overview of TBD Subcommittee 2",
+			"leaders": ["TBD"],
+			"venues": [
+				{
+					"tbd": "tbd"
+				}
+			],
+			"readings": [
+				{
+					"tbd": "tbd"
+				}
+			]
+		},
+		{
+			"date": "2023-05-04",
+			"type": "class",
+			"title": "Discussion of TBD Subcommittee 2",
+			"leaders": ["TBD"],
+			"readings": [
+				{
+					"tbd":"tbd"
+				}
+			]
+		},
+		{
+			"date": "2023-05-09",
+			"type": "class",
+			"title": "Overview of TBD Subcommittee 3",
+			"leaders": ["TBD"],
+			"venues": [
+				{
+					"tbd": "tbd"
+				}
+			],
+			"readings": [
+				{
+					"tbd": "tbd"
+				}
+			]
+		},
+		{
+			"date": "2023-05-11",
+			"type": "class",
+			"title": "Discussion of TBD Subcommittee 3",
+			"leaders": ["TBD"],
+			"readings": [
+				{
+					"tbd":"tbd"
+				}
+			]
+		},
+		{
+			"date": "2023-05-12",
+			"type": "assignments",
+			"title": "Proposal 1 Draft",
+			"anchor": "proposal1draft",
+			"link": "https://canvas.eee.uci.edu/courses/53657/assignments/1126262"
+		},
+		{
+			"date": "2023-05-16",
+			"type": "assignments",
+			"title": "Peer Feedback on Proposal 1",
+			"anchor": "proposal1feedback"
+		},
+		{
+			"date": "2023-05-16",
+			"type": "class",
+			"title": "Overview of TBD Subcommittee 4",
+			"leaders": ["TBD"],
+			"venues": [
+				{
+					"tbd": "tbd"
+				}
+			],
+			"readings": [
+				{
+					"tbd": "tbd"
+				}
+			]
+		},
+		{
+			"date": "2023-05-18",
+			"type": "class",
+			"title": "Discussion of TBD Subcommittee 4",
+			"leaders": ["TBD"],
+			"readings": [
+				{
+					"tbd":"tbd"
+				}
+			]
+		},
+		{
+			"date": "2023-05-22",
+			"type": "assignments",
+			"title": "Proposal 1 Final Submission",
+			"anchor": "proposal1final",
+			"link": "https://canvas.eee.uci.edu/courses/53657/assignments/1126263"
+		},
+		{
+			"date": "2023-05-23",
+			"type": "class",
+			"title": "Overview of TBD Subcommittee 5",
+			"leaders": ["TBD"],
+			"venues": [
+				{
+					"tbd": "tbd"
+				}
+			],
+			"readings": [
+				{
+					"tbd": "tbd"
+				}
+			]
+		},
+		{
+			"date": "2023-05-25",
+			"type": "class",
+			"title": "Discussion of TBD Subcommittee 5",
+			"leaders": ["TBD"],
+			"readings": [
+				{
+					"tbd":"tbd"
+				}
+			]
+		},
+		{
+			"date": "2023-05-30",
+			"type": "class",
+			"title": "Overview of TBD Subcommittee 6",
+			"leaders": ["TBD"],
+			"venues": [
+				{
+					"tbd": "tbd"
+				}
+			],
+			"readings": [
+				{
+					"tbd": "tbd"
+				}
+			]
+		},
+		{
+			"date": "2023-06-01",
+			"type": "class",
+			"title": "Discussion of TBD Subcommittee 6",
+			"leaders": ["TBD"],
+			"readings": [
+				{
+					"tbd":"tbd"
+				}
+			]
+		},
+		{
+			"date": "2023-06-02",
+			"type": "assignments",
+			"title": "Proposal 2 Draft",
+			"anchor": "proposal2draft",
+			"link": "https://canvas.eee.uci.edu/courses/53657/assignments/1126264"
+		},
+		{
+			"date": "2023-06-06",
+			"type": "assignments",
+			"title": "Peer Feedback on Proposal 2",
+			"anchor": "proposal2feedback"
+		},
+		{
+			"date": "2023-06-06",
+			"type": "class",
+			"title": "TBD",
+			"readings": [
+				{
+					"tbd":"tbd"
+				}
+			]
+		},
+		{
+			"date": "2023-06-08",
+			"type": "class",
+			"title": "TBD",
+			"readings": [
+				{
+					"tbd":"tbd"
+				}
+			]
+		},
+		{
+			"date": "2023-06-12",
+			"type": "assignments",
+			"title": "Proposal 2 Final Submission",
+			"anchor": "proposal2final",
+			"link": "https://canvas.eee.uci.edu/courses/53657/assignments/1126265"
+		}
+	]
+}
