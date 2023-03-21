@@ -65,14 +65,6 @@
 					"link":"https://chi2023.acm.org/submission-guides/contributions-to-chi/",
 					"date": "2023",
 					"optional":true
-				},
-				{
-					"authors": ["Judith S. Olson", "Wendy A. Kellogg"],
-					"title": "Ways of Knowing in HCI",
-					"venue": "Springer",
-					"date": "2014",
-					"link": "https://link.springer.com/book/10.1007/978-1-4939-0378-8",
-					"optional": true
 				}
 			],
 			"slides": "assets/slides/04_06_23-research_contributions.pdf"
@@ -124,7 +116,12 @@
 			"leaders": ["Daniel"],
 			"readings": [
 				{
-					"tbd":"tbd"
+					"authors": ["Judith S. Olson", "Wendy A. Kellogg"],
+					"title": "Ways of Knowing in HCI",
+					"venue": "Springer",
+					"date": "2014",
+					"link": "https://link.springer.com/book/10.1007/978-1-4939-0378-8",
+					"notes": "Read the Front Matter and the Epilogue. Additionally, skim two chapters which discuss methods which you do *not* have experience undertaking. Some suggestions include Hudson & Mankoff, Zimmerman & Forlizzi, and Dumais et al. These readings are not on Perusall, but come to class prepared to discuss what you read."
 				}
 			]
 		},
