@@ -105,12 +105,6 @@
 		},
 		{
 			"date": "2023-04-13",
-			"type": "due",
-			"title": "CHI 2023 Paper Nominations",
-			"link": "https://forms.gle/1LhcWjfSP4q3dSB78"
-		},
-		{
-			"date": "2023-04-13",
 			"type": "class",
 			"title": "Research Methods used in HCI",
 			"leaders": ["Daniel"],
@@ -128,27 +122,71 @@
 		{
 			"date": "2023-04-18",
 			"type": "class",
-			"title": "Overview of TBD Subcommittee 1",
-			"leaders": ["TBD"],
+			"title": "Overview of Health",
+			"leaders": ["Meeshu Agnihorti", "Novia Wong", "Jun Zhu", "Nelly Cheng", "Mo Emish"],
 			"venues": [
 				{
-					"tbd": "tbd"
+					"name": "CHI Subcommittee",
+					"link": "https://chi2023.acm.org/subcommittees/selecting-a-subcommittee/#health"
+				},
+				{
+					"name": "JAMIA",
+					"link": "https://academic.oup.com/jamia/pages/General_Instructions",
+					"notes": "Read 'About the Journal'"
+				},
+				{
+					"name": "AMIA",
+					"link": "https://amia.org/education-events/amia-2023-annual-symposium/call-participation",
+					"notes": "Read 'Target Audience' and 'Learning Objectives'"
 				}
 			],
 			"readings": [
 				{
-					"tbd":"tbd"
+					"authors": ["Predrag Klasnja", "Sunny Consolvo", "Wanda Pratt"],
+					"title": "How to Evaluate Technologies for Health Behavior Change in HCI Research",
+					"venue": "CHI",
+					"date": "2011",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1978942.1979396"
+				},
+				{
+					"authors": ["Geraldine Fitzpatrick", "Gunnar Ellingsen"],
+					"title": "A Review of 25 dates of CSCW Research in Healthcare: Contributions, Challenges, and Future Agendas",
+					"venue": "Computer Supported Cooperative Work (CSCW)",
+					"volume": 22,
+					"date": "2013",
+					"link": "https://link.springer.com/article/10.1007/s10606-012-9168-0"
+				},
+				{
+					"authors": ["Pedro Sanches", "Axel Janson", "Pavel Karpashevich", "Camille Nadal", "Chengcheng Qu", "Claudia Daudén Roquet", "Muhammad Umair", "Charles Windlin", "Gavin Doherty", "Kristina Höök", "Corina Sas"],
+					"title": "HCI and Affective Health: Taking Stock of a Decade of Studies and Charting Future Research Directions",
+					"venue": "CHI",
+					"date": "2019",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3290605.3300475",
+					"optional": true
 				}
 			]
 		},
 		{
 			"date": "2023-04-20",
 			"type": "class",
-			"title": "Discussion of TBD Subcommittee 1",
-			"leaders": ["TBD"],
+			"title": "Discussion of Health",
+			"leaders": ["Meeshu Agnihorti", "Novia Wong", "Jun Zhu", "Nelly Cheng", "Mo Emish"],
 			"readings": [
 				{
-					"tbd":"tbd"
+					"authors": ["Camille Nadal", "Shane McCully", "Kevin Doherty", "Corina Sas", "Gavin Doherty"],
+					"title": "The TAC Toolkit: Supporting Design for User Acceptance of Health Technologies from a Macro-Temporal Perspective",
+					"venue": "CHI",
+					"date": "2022",
+					"link": "https://dl.acm.org/doi/10.1145/3491102.3502039"
+				},
+				{
+					"authors": ["Chris Paton", "Andre W. Kushniruk", "Elizabeth M. Borycki", "Mike English", "Jim Warren"],
+					"title": "Improving the Usability and Safety of Digital Health Systems: The Role of Predictive Human-Computer Interaction Modeling",
+					"venue": "JMIR",
+					"volume": 23,
+					"issue": 5,
+					"date": "2021",
+					"link": "https://www.jmir.org/2021/5/e25281"
 				}
 			]
 		},
@@ -178,24 +216,66 @@
 		{
 			"date": "2023-05-02",
 			"type": "class",
-			"title": "Overview of TBD Subcommittee 2",
-			"leaders": ["TBD"],
+			"title": "Overview of User Interface Software & Technology",
+			"leaders": ["Mengqi Gao", "Josh Kim", "Hazel Chiang", "Fernanda Ventorim", "Matthew Dressa"],
 			"venues": [
 				{
-					"tbd": "tbd"
+					"name": "CHI Subcommittee (Building Devices)",
+					"link": "https://chi2023.acm.org/subcommittees/selecting-a-subcommittee/#building_devices"
+				},
+				{
+					"name": "CHI Subcommittee (Interacting with Devices)",
+					"link": "https://chi2023.acm.org/subcommittees/selecting-a-subcommittee/#interacting_devices"
+				},
+				{
+					"name": "CHI Subcommittee (Blending Interaction)",
+					"link": "https://chi2023.acm.org/subcommittees/selecting-a-subcommittee/#blending_interaction"
+				},
+				{
+					"name": "UIST",
+					"link": "https://uist.acm.org/2023/author-guide/",
+					"notes": "Read 'Paper Requirements' and 'Writing Guidelines'"
 				}
 			],
 			"readings": [
 				{
-					"tbd": "tbd"
+					"authors":["Brad Myers", "Scott E. Hudson", "Randy Pausch"],
+					"title": "Past, Present, and Future of User Interface Sotware Tools",
+					"venue": "TOCHI",
+					"volume": 7,
+					"issue": 1,
+					"date": "2000",
+					"link": "https://dl.acm.org/doi/abs/10.1145/344949.344959"
+				},
+				{
+					"authors": ["Hiroshi Ishii", "Brygg Ullmer"],
+					"title": "Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms",
+					"venue": "CHI",
+					"date": "1997",
+					"link": "https://dl.acm.org/doi/10.1145/258549.258715"
+				},
+				{
+					"authors": ["Jun Rekimoto"],
+					"title": "Pick-and-drop: a Direct Manipulation Technique for Multiple Computer Envirionments",
+					"venue": "UIST",
+					"date": "1997",
+					"link": "https://dl.acm.org/doi/10.1145/263407.263505"
+				},
+				{
+					"authors":["James Fogarty"],
+					"title": "Code and Contribution in Interactive Systems Research",
+					"venue": "#HCI.Tools Workshop at CHI",
+					"date": "2017",
+					"link": "https://homes.cs.washington.edu/~jfogarty/publications/workshop-chi2017-codeandcontribution.pdf",
+					"optional": true
 				}
 			]
 		},
 		{
 			"date": "2023-05-04",
 			"type": "class",
-			"title": "Discussion of TBD Subcommittee 2",
-			"leaders": ["TBD"],
+			"title": "Discussion of User Interface Software & Technology",
+			"leaders": ["Mengqi Gao", "Josh Kim", "Hazel Chiang", "Fernanda Ventorim", "Matthew Dressa"],
 			"readings": [
 				{
 					"tbd":"tbd"
@@ -205,24 +285,57 @@
 		{
 			"date": "2023-05-09",
 			"type": "class",
-			"title": "Overview of TBD Subcommittee 3",
-			"leaders": ["TBD"],
+			"title": "Overview of Accessibility & Aging",
+			"leaders": ["Yoonha Cha", "Emani Dotch", "Sohyeon Park", "Vitica Arnold"],
 			"venues": [
 				{
-					"tbd": "tbd"
+					"name": "CHI Subcommittee",
+					"link": "https://chi2023.acm.org/subcommittees/selecting-a-subcommittee/#accessibility"
+				},
+				{
+					"name": "ASSETS",
+					"link": "https://assets23.sigaccess.org/call-for-papers.html"
 				}
 			],
 			"readings": [
 				{
-					"tbd": "tbd"
+					"authors": ["Jennifer Mankoff", "Gillian R. Hayes", "Devva Kasnitz"],
+					"title": "Disability Studies as a Source of Critical Inquiry for the Field of Assistive Technology",
+					"venue": "ASSETS",
+					"date": "2010",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1878803.1878807"
+				},
+				{
+					"authors": ["Jacob O. Wobbrock", "Shaun K. Kane", "Krzysztof Z. Gajos", "Susumu Harada", "Jon Froehlich"],
+					"title": "Ability-Based Design: Concept, Principles, and Examples",
+					"venue": "TACCESS",
+					"volume": 3,
+					"issue": 3,
+					"date": "2011",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1952383.1952384"
+				},
+				{
+					"authors": ["Shaun K. Kane", "Jeffrey P. Bigham", "Jacob O. Wobbrock"],
+					"title": "Slide Rule: Making Mobile Touch Screens Accessible to Blind People Using Multi-Touch Interaction Techniques",
+					"venue": "ASSETS",
+					"date": "2008",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1414471.1414487",
+					"optional": true
+				},
+				{
+					"authors": ["Cynthia L. Bennett", "Erin Brady", "Stacy M. Branham"],
+					"title": "Interdependence as a Frame for Assistive Technology Research and Design",
+					"date": "2018",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3234695.3236348",
+					"optional": true
 				}
 			]
 		},
 		{
 			"date": "2023-05-11",
 			"type": "class",
-			"title": "Discussion of TBD Subcommittee 3",
-			"leaders": ["TBD"],
+			"title": "Discussion of Accessibility & Aging",
+			"leaders": ["Yoonha Cha", "Emani Dotch", "Sohyeon Park", "Vitica Arnold"],
 			"readings": [
 				{
 					"tbd":"tbd"
@@ -245,24 +358,69 @@
 		{
 			"date": "2023-05-16",
 			"type": "class",
-			"title": "Overview of TBD Subcommittee 4",
-			"leaders": ["TBD"],
+			"title": "Overview of Critical Computing, Sustainability, and Social Justice",
+			"leaders": ["Ria Khan", "Seolha Lee", "Tamanna Hossain", "Christine Head"],
 			"venues": [
 				{
-					"tbd": "tbd"
+					"name": "CHI Subcommittee",
+					"link": "https://chi2023.acm.org/subcommittees/selecting-a-subcommittee/#critical_computing"
+				},
+				{
+					"name": "New Media & Society",
+					"link": "https://journals.sagepub.com/aims-scope/NMS"
+				},
+				{
+					"name": "LIMITS",
+					"link": "https://computingwithinlimits.org/2023/"
 				}
 			],
 			"readings": [
 				{
-					"tbd": "tbd"
+					"authors":["Hrönn Brynjarsdóttir", "Maria Håkansson", "James Pierce", "Eric P.S. Baumer", "Carl DiSalvo", "Phoebe Sengers"],
+					"title": "Sustainability Unpersuaded: How Persuasion Narrows Our Vision of Sustainability",
+					"venue": "CHI",
+					"date": "2012",
+					"link": "https://dl.acm.org/doi/abs/10.1145/2207676.2208539"
+				},
+				{
+					"authors":["Ihudiya Finda Ogbonnaya-Ogburu", "Angela D.R. Smith", "Alexandra To", "Kentaro Toyama"],
+					"title": "Critical Race Theory for HCI",
+					"venue": "CHI",
+					"date": "2020",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3313831.3376392"
+				},
+				{
+					"authors": ["Joyojeet Pal"],
+					"title": "CHI4Good or Good4CHI",
+					"venue": "alt.CHI",
+					"date": "2017",
+					"link": "https://dl.acm.org/doi/10.1145/3027063.3052766"
+				},
+				{
+					"authors":["Yolanda A. Rankin", "Jakita O. Thomas"],
+					"title": "Straighten Up and Fly Right: Rethinking Intersectionaity in HCI Research",
+					"venue": "Interactions",
+					"date": "2019",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3363033",
+					"optional": true
+				},
+				{
+					"authors": ["Os Keyes"],
+					"title": "The Misgendering Machines: Trans/HCI Implications of Automatic Gender Recognition",
+					"venue": "PACM HCI",
+					"volume": 2,
+					"issue": "CSCW",
+					"date": "2018",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3274357",
+					"optional": true
 				}
 			]
 		},
 		{
 			"date": "2023-05-18",
 			"type": "class",
-			"title": "Discussion of TBD Subcommittee 4",
-			"leaders": ["TBD"],
+			"title": "Discussion of Critical Computing, Sustainability, and Social Justice",
+			"leaders": ["Ria Khan", "Seolha Lee", "Tamanna Hossain", "Christine Head"],
 			"readings": [
 				{
 					"tbd":"tbd"
@@ -279,24 +437,44 @@
 		{
 			"date": "2023-05-23",
 			"type": "class",
-			"title": "Overview of TBD Subcommittee 5",
-			"leaders": ["TBD"],
+			"title": "Overview of Privacy & Security",
+			"leaders": ["Olivia Figueira", "Jessy Ayala", "Jiayu Yin", "Katie Genuario"],
 			"venues": [
 				{
-					"tbd": "tbd"
+					"name": "CHI Subcommittee",
+					"link": "https://chi2023.acm.org/subcommittees/selecting-a-subcommittee/#privacy"
+				},
+				{
+					"name": "USENIX Security",
+					"link": "https://www.usenix.org/conference/usenixsecurity23/call-for-papers"
+				},
+				{
+					"name": "SOUPS",
+					"link": "https://www.usenix.org/conference/soups2023/call-for-papers"
 				}
 			],
 			"readings": [
 				{
-					"tbd": "tbd"
+					"authors": ["Rachna Dhamija", "J. D. Tygar", "Marti Hearst"],
+					"title": "Why Phishing Works",
+					"venue": "CHI",
+					"date": "2006",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1124772.1124861"
+				},
+				{
+					"authors": ["Alma Whitten", "J.D. Tygar"],
+					"title": "Why Johnny Can't Encrypt: A Usability Evaluation of PGP 5.0",
+					"venue": "USENIX Security",
+					"date": "1999",
+					"link": "https://www.usenix.org/legacy/events/sec99/full_papers/whitten/whitten.ps"
 				}
 			]
 		},
 		{
 			"date": "2023-05-25",
 			"type": "class",
-			"title": "Discussion of TBD Subcommittee 5",
-			"leaders": ["TBD"],
+			"title": "Discussion of Privacy & Security",
+			"leaders": ["Olivia Figueira", "Jessy Ayala", "Jiayu Yin", "Katie Genuario"],
 			"readings": [
 				{
 					"tbd":"tbd"
@@ -306,24 +484,60 @@
 		{
 			"date": "2023-05-30",
 			"type": "class",
-			"title": "Overview of TBD Subcommittee 6",
-			"leaders": ["TBD"],
+			"title": "Overview of Learning, Education, & Families",
+			"leaders": ["Nadia Azizan", "Kunlei He", "Seehee Park", "Mehreen Masood", "Zhenyao Cai"],
 			"venues": [
 				{
-					"tbd": "tbd"
+					"name": "CHI Subcommittee",
+					"link": "https://chi2023.acm.org/subcommittees/selecting-a-subcommittee/#learning"
+				},
+				{
+					"name": "IDC",
+					"link": "https://idc.acm.org/2023/theme-general-topics/"
+				},
+				{
+					"name": "Learning at Scale",
+					"link": "https://learningatscale.acm.org/las2023/organizers/cfp/"
 				}
 			],
 			"readings": [
 				{
-					"tbd": "tbd"
+					"authors": ["Allison Druin"],
+					"title": "Cooperative Inquiry: Developing New Technologies for Children and with Children",
+					"venue": "CHI",
+					"date": "1999",
+					"link": "https://dl.acm.org/doi/abs/10.1145/302979.303166"
+				},
+				{
+					"authors": ["Philip J. Guo", "Juho Kim", "Rob Rubin"],
+					"title": "How Video Production Affects Student Engagement: an Empirical Study of MOOC Videos",
+					"date": "2014",
+					"link": "https://dl.acm.org/doi/abs/10.1145/2556325.2566239"
+				},
+				{
+					"authors": ["Elliot Soloway", "Mark Guzdial", "Kenneth E. Hay"],
+					"title": "Learner-Centered Design: The Challenge for HCI in the 21st Century",
+					"venue": "Interactions",
+					"volume": 1,
+					"issue": 2,
+					"date": "1994",
+					"link": "https://dl.acm.org/doi/10.1145/174809.174813"
+				},
+				{
+					"authors": ["Saba Kawas", "Ye Yuan", "Akeiylah DeWitt", "Qiao Jin", "Susanne Kirchner", "Abagail Bilger", "Ethan Grantham", "Julie A. Kientz", "Andrea Tartaro", "Svetlana Yarosh"],
+					"title": "Another Decade of IDC Research: Examining and Reflecting on Values and Ethics",
+					"venue": "IDC",
+					"date": "2020",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3392063.3394436",
+					"optional": true
 				}
 			]
 		},
 		{
 			"date": "2023-06-01",
 			"type": "class",
-			"title": "Discussion of TBD Subcommittee 6",
-			"leaders": ["TBD"],
+			"title": "Discussion  of Learning, Education, & Families",
+			"leaders": ["Nadia Azizan", "Kunlei He", "Seehee Park", "Mehreen Masood", "Zhenyao Cai"],
 			"readings": [
 				{
 					"tbd":"tbd"
