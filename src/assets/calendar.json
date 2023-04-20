@@ -166,7 +166,8 @@
 					"link": "https://dl.acm.org/doi/abs/10.1145/3290605.3300475",
 					"optional": true
 				}
-			]
+			],
+			"slides": "assets/slides/04_18_23-health.pdf"
 		},
 		{
 			"date": "2023-04-20",
@@ -190,7 +191,8 @@
 					"date": "2021",
 					"link": "https://www.jmir.org/2021/5/e25281"
 				}
-			]
+			],
+			"slides": "assets/slides/04_18_23-health.pdf"
 		},
 		{
 			"date": "2023-04-24",
@@ -202,12 +204,14 @@
 		{
 			"date": "2023-04-25",
 			"type": "class",
-			"title": "CHI Watch Party"
+			"title": "CHI Watch Party",
+			"notes": "The talk schedule is <a href='https://docs.google.com/spreadsheets/d/1a5K68ZSTx-DJghZDA0Qx1nTLxax5vo4gKa1sbr6vnfw/edit#gid=0'>here</a>."
 		},
 		{
 			"date": "2023-04-27",
 			"type": "class",
-			"title": "CHI Watch Party"
+			"title": "CHI Watch Party",
+			"notes": "The talk schedule is <a href='https://docs.google.com/spreadsheets/d/1a5K68ZSTx-DJghZDA0Qx1nTLxax5vo4gKa1sbr6vnfw/edit#gid=0'>here</a>."
 		},
 		{
 			"date": "2023-04-28",

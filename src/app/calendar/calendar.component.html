@@ -48,7 +48,7 @@
 					</ul>
 					<div *ngIf="event.notes">
 						<h3>Notes</h3>
-						<p>{{event.notes}}</p>
+						<p [innerHTML]="event.notes"></p>
 					</div>
 					<h2 *ngIf="event.type == 'officehours_daniel'">{{event.label}}</h2>
 					<h2 *ngIf="event.type == 'holiday' || event.type == 'absence'">{{event.title}}</h2>
