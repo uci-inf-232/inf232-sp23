@@ -195,13 +195,6 @@
 			"slides": "assets/slides/04_18_23-health.pdf"
 		},
 		{
-			"date": "2023-04-24",
-			"type": "assignments",
-			"title": "Reverse Outline",
-			"anchor": "reverseoutline",
-			"link": "https://canvas.eee.uci.edu/courses/53657/assignments/1126260"
-		},
-		{
 			"date": "2023-04-25",
 			"type": "class",
 			"title": "CHI Watch Party",
@@ -212,6 +205,13 @@
 			"type": "class",
 			"title": "CHI Watch Party",
 			"notes": "The talk schedule is <a href='https://docs.google.com/spreadsheets/d/1a5K68ZSTx-DJghZDA0Qx1nTLxax5vo4gKa1sbr6vnfw/edit#gid=0'>here</a>."
+		},
+		{
+			"date": "2023-04-28",
+			"type": "assignments",
+			"title": "Reverse Outline",
+			"anchor": "reverseoutline",
+			"link": "https://canvas.eee.uci.edu/courses/53657/assignments/1126260"
 		},
 		{
 			"date": "2023-04-28",
@@ -491,7 +491,7 @@
 			"date": "2023-05-30",
 			"type": "class",
 			"title": "Overview of Learning, Education, & Families",
-			"leaders": ["Nadia Azizan", "Kunlei He", "Seehee Park", "Mehreen Masood", "Zhenyao Cai"],
+			"leaders": ["Nadia Azizan", "Kunlei He", "Seehee Park", "Mehreen Masood", "Zhenyao Cai", "Ariel Han"],
 			"venues": [
 				{
 					"name": "CHI Subcommittee",
