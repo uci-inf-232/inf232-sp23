@@ -284,7 +284,18 @@
 			"leaders": ["Mengqi Gao", "Josh Kim", "Hazel Chiang", "Fernanda Ventorim", "Matthew Dressa"],
 			"readings": [
 				{
-					"tbd":"tbd"
+					"authors": ["Yuije Tao", "Pedro Lopes"],
+					"title": "Integrating Real-World Distractions into Virtual Reality",
+					"venue": "UIST",
+					"date": "2022",
+					"link": "https://dl.acm.org/doi/10.1145/3526113.3545682"
+				},
+				{
+					"authors": ["Sangho Suh", "Jian Zhao", "Edith Law"],
+					"title": "CodeToon: Story Ideation, Auto Comic Generation, and Structure Mapping for Code-Driven Storytelling",
+					"venue": "UIST",
+					"date": "2022",
+					"link": "https://dl.acm.org/doi/10.1145/3526113.3545617"
 				}
 			]
 		},
