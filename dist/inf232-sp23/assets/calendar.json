@@ -350,6 +350,7 @@
 					"authors": ["Cynthia L. Bennett", "Erin Brady", "Stacy M. Branham"],
 					"title": "Interdependence as a Frame for Assistive Technology Research and Design",
 					"date": "2018",
+					"venue": "ASSETS",
 					"link": "https://dl.acm.org/doi/abs/10.1145/3234695.3236348",
 					"optional": true
 				}
@@ -362,7 +363,18 @@
 			"leaders": ["Yoonha Cha", "Emani Dotch", "Sohyeon Park", "Vitica Arnold"],
 			"readings": [
 				{
-					"tbd":"tbd"
+					"authors": ["Tooba Ahsen", "Christina Yu", "Amanda O'Brien", "Ralf W. Schlosser", "Howard C. Shane", "Dylan Oesch-Emmel", "Eileen T. Crehan", "Fahad Dogar"],
+					"title": "Designing a Customizable Picture-Based Augmented Reality Application For Therapists and Educational Professionals Working in Autistic Contexts",
+					"venue": "ASSETS",
+					"date": "2022",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3517428.3544884"
+				},
+				{
+					"authors": ["Katta Spiel", "Eva Hornecker", "Rua Mae Williams", "Judith Good"],
+					"title": "ADHD and Technology Research – Investigated by Neurodivergent Readers",
+					"venue": "CHI",
+					"date": "2022",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3491102.3517592"
 				}
 			]
 		},
