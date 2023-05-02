@@ -275,7 +275,8 @@
 					"link": "https://homes.cs.washington.edu/~jfogarty/publications/workshop-chi2017-codeandcontribution.pdf",
 					"optional": true
 				}
-			]
+			],
+			"slides": "assets/slides/05_02_23-uist_overview.pdf"
 		},
 		{
 			"date": "2023-05-04",
