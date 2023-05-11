@@ -522,18 +522,18 @@
 			],
 			"readings": [
 				{
-					"authors": ["Rachna Dhamija", "J. D. Tygar", "Marti Hearst"],
-					"title": "Why Phishing Works",
-					"venue": "CHI",
-					"date": "2006",
-					"link": "https://dl.acm.org/doi/abs/10.1145/1124772.1124861"
+					"authors": ["Alessandro Acquisti", "Idris Adjerid", "Rebecca Balebako", "Laura Brandimarte", "Lorrie Faith Cranor", "Saranga Komanduri", "Pedro Giovanni Leon", "Norman Sadeh", "Florian Schaub", "Manya Sleeper", "Yang Wang", "Shomir Wilson"],
+					"title": "Nudges for Privacy and Security: Understanding and Assisting Users’ Choices Online",
+					"venue": "CSUR",
+					"date": "2017",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3054926"
 				},
 				{
-					"authors": ["Alma Whitten", "J.D. Tygar"],
-					"title": "Why Johnny Can't Encrypt: A Usability Evaluation of PGP 5.0",
-					"venue": "USENIX Security",
-					"date": "1999",
-					"link": "https://www.usenix.org/legacy/events/sec99/full_papers/whitten/whitten.ps"
+					"authors": ["Tara Matthews", "Kathleen O'Leary", "Anna Turner", "Manya Sleeper", "Jill Woelfer", "Martin Shelton", "Cori Mathorne", "Elizabeth F. Churchill", "Sunny Consolvo"],
+					"title": "Stories from Survivors: Privacy & Security Practices when Coping with Intimate Partner Abuse",
+					"venue": "CHI",
+					"date": "2017",
+					"link": "https://dl.acm.org/doi/10.1145/3025453.3025875"
 				}
 			]
 		},
