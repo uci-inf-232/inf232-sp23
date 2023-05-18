@@ -470,7 +470,8 @@
 					"link": "https://dl.acm.org/doi/abs/10.1145/3274357",
 					"optional": true
 				}
-			]
+			],
+			"slides": "assets/slides/05_16_23-critical_computing.pdf"
 		},
 		{
 			"date": "2023-05-18",
@@ -492,7 +493,8 @@
 					"date": "2020",
 					"link": "https://dl.acm.org/doi/10.1145/3419249.3420149"
 				}
-			]
+			],
+			"slides": "assets/slides/05_16_23-critical_computing.pdf"
 		},
 		{
 			"date": "2023-05-22",
@@ -576,10 +578,18 @@
 					"link": "https://dl.acm.org/doi/abs/10.1145/302979.303166"
 				},
 				{
+					"authors": ["Saba Kawas", "Ye Yuan", "Akeiylah DeWitt", "Qiao Jin", "Susanne Kirchner", "Abagail Bilger", "Ethan Grantham", "Julie A. Kientz", "Andrea Tartaro", "Svetlana Yarosh"],
+					"title": "Another Decade of IDC Research: Examining and Reflecting on Values and Ethics",
+					"venue": "IDC",
+					"date": "2020",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3392063.3394436"
+				},
+				{
 					"authors": ["Philip J. Guo", "Juho Kim", "Rob Rubin"],
 					"title": "How Video Production Affects Student Engagement: an Empirical Study of MOOC Videos",
 					"date": "2014",
-					"link": "https://dl.acm.org/doi/abs/10.1145/2556325.2566239"
+					"link": "https://dl.acm.org/doi/abs/10.1145/2556325.2566239",
+					"optional": true
 				},
 				{
 					"authors": ["Elliot Soloway", "Mark Guzdial", "Kenneth E. Hay"],
@@ -588,14 +598,7 @@
 					"volume": 1,
 					"issue": 2,
 					"date": "1994",
-					"link": "https://dl.acm.org/doi/10.1145/174809.174813"
-				},
-				{
-					"authors": ["Saba Kawas", "Ye Yuan", "Akeiylah DeWitt", "Qiao Jin", "Susanne Kirchner", "Abagail Bilger", "Ethan Grantham", "Julie A. Kientz", "Andrea Tartaro", "Svetlana Yarosh"],
-					"title": "Another Decade of IDC Research: Examining and Reflecting on Values and Ethics",
-					"venue": "IDC",
-					"date": "2020",
-					"link": "https://dl.acm.org/doi/abs/10.1145/3392063.3394436",
+					"link": "https://dl.acm.org/doi/10.1145/174809.174813",
 					"optional": true
 				}
 			]
