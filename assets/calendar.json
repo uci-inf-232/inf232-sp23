@@ -546,7 +546,18 @@
 			"leaders": ["Olivia Figueira", "Jessy Ayala", "Jiayu Yin", "Katie Genuario"],
 			"readings": [
 				{
-					"tbd":"tbd"
+					"authors": ["Monica Kowalczyk", "Johanna T. Gunawan", "David Choffnes", "Daniel J. Dubois", "Woodrow Hartzog", "Christo Wilson"],
+					"title": "Understanding Dark Patterns in Home IoT Devices",
+					"venue": "CHI",
+					"date": "2023",
+					"link": "https://dl.acm.org/doi/10.1145/3544548.3581432"
+				},
+				{
+					"authors": ["Arnout Terpstra", "Alwin De Rooj", "Alexander Schouten"],
+					"title": "Online Proctoring: Privacy Invasion or Study Alleviation?: Discovering Acceptability Using Contextual Integrity",
+					"venue": "CHI",
+					"date": "2023",
+					"link": "https://dl.acm.org/doi/10.1145/3544548.3581181"
 				}
 			]
 		},
