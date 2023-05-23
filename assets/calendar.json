@@ -537,7 +537,8 @@
 					"date": "2017",
 					"link": "https://dl.acm.org/doi/10.1145/3025453.3025875"
 				}
-			]
+			],
+			"slides":"assets/slides/05_23_23-privacy_overview.pdf"
 		},
 		{
 			"date": "2023-05-25",
