@@ -622,7 +622,18 @@
 			"leaders": ["Nadia Azizan", "Kunlei He", "Seehee Park", "Mehreen Masood", "Zhenyao Cai"],
 			"readings": [
 				{
-					"tbd":"tbd"
+					"authors": ["Ge Wang", "Jun Zhao", "Max Van Kleek", "Nigel Shadbolt"],
+					"title": "12 Ways to Empower: Designing for Children’s Digital Autonomy",
+					"venue": "CHI",
+					"date": "2023",
+					"link": "https://dl.acm.org/doi/10.1145/3544548.3580935"
+				},
+				{
+					"authors": ["Wenjie Xu", "Jiayi Ma", "Jiayu Yao", "Weija Lin", "Chao Zhang", "Xuanhe Xia", "Nan Zhuang", "Shitong Weng", "Xiaoqian Xie", "Shuyue Feng", "Fangtian Ying", "Prben Hansen", "Cheng Yao"],
+					"title": "MathKingdom: Teaching Children Mathematical Language Through Speaking at Home via a Voice-Guided Game",
+					"venue": "CHI",
+					"date": "2023",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3544548.3581043"
 				}
 			]
 		},
