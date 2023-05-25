@@ -560,7 +560,8 @@
 					"date": "2023",
 					"link": "https://dl.acm.org/doi/10.1145/3544548.3581181"
 				}
-			]
+			],
+			"slides": "assets/slides/05_25_23-privacy_discussion.pdf"
 		},
 		{
 			"date": "2023-05-30",
