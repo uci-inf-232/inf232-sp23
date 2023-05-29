@@ -654,17 +654,30 @@
 		{
 			"date": "2023-06-06",
 			"type": "class",
-			"title": "TBD",
-			"readings": [
+			"title": "Subcommittee Grab Bag",
+			"venues": [
 				{
-					"tbd":"tbd"
+					"name": "DIS",
+					"link": "https://dis.acm.org/2023/call-for-papers-and-pictorials/"
+				},
+				{
+					"name": "COMPASS",
+					"link": "https://compass.acm.org/calls/full-papers/"
+				},
+				{
+					"name": "CSCW",
+					"link": "https://cscw.acm.org/2023/index.php/submit-papers/"
+				},
+				{
+					"name": "CHI PLAY",
+					"link": "https://chiplay.acm.org/2023/authors/full-papers/"
 				}
 			]
 		},
 		{
 			"date": "2023-06-08",
 			"type": "class",
-			"title": "TBD",
+			"title": "HCI Research & Publication Process",
 			"readings": [
 				{
 					"tbd":"tbd"
