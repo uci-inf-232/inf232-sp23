@@ -680,7 +680,22 @@
 			"title": "HCI Research & Publication Process",
 			"readings": [
 				{
-					"tbd":"tbd"
+					"authors":["Max L. Wilson"],
+					"title": "Investigating the Quality of Reviews, Reviewers, and their Expertise for CHI2023",
+					"link": "https://chi2023.acm.org/2023/01/05/investigating-the-quality-of-reviews-reviewers-and-their-expertise-for-chi2023/",
+					"date": "2023"
+				},
+				{
+					"authors":["Irina Shklovski", "Phoebe Toups Dugas", "Max L. Wilson"],
+					"title": "CHI’24 Updates to the R&R Process",
+					"link": "https://chi2024.acm.org/2023/05/11/chi24-updates-to-the-rr-process/",
+					"date": "2024"
+				},
+				{
+					"authors":"Many People",
+					"title": "An Unofficial Guide to Reviewing at CHI",
+					"link": "https://docs.google.com/document/d/1MpH3zV8WFU5avQHqrVTtxu-wNWzeTstxWy7K__HK5Nc/edit",
+					"date": "2021"
 				}
 			]
 		},
